@@ -694,7 +694,7 @@ The `/etc/hosts` equivalent filepath on Windows is:
 For more info, see [Hosts at wikipedia](http://en.wikipedia.org/wiki/Hosts_(file)).
 
   * Clone the repo `git clone git@github.com:Vestorly/torii.git`, `cd torii/`
-  * `yarn install`
+  * `yarn` or `yarn install`
   * `ember serve`
 
 Now, start your server and visit the page:
